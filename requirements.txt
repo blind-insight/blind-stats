@@ -1,0 +1,14 @@
+# Python dependencies for blind-stats
+# Requires Python 3.11+ (see pyproject.toml)
+
+# Statistics core
+scipy>=1.10.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# HTTP client for the Blind Proxy API
+requests>=2.25.0
+
+# Jupyter notebook support (for running statistics.ipynb)
+jupyter>=1.0.0
+notebook>=6.4.0

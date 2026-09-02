@@ -1,0 +1,66 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "blind-stats"
+version = "0.1.0"
+description = "Descriptive and inferential statistics on encrypted data via Blind Insight"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Blind Insight", email = "hello@blindinsight.com" }]
+keywords = ["statistics", "encryption", "privacy", "searchable-encryption", "blind-insight"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Security :: Cryptography",
+]
+dependencies = [
+    "scipy>=1.10.0",
+    "numpy>=1.21.0",
+    "pandas>=1.3.0",
+    "requests>=2.25.0",
+]
+
+[project.optional-dependencies]
+notebooks = ["jupyter>=1.0.0", "notebook>=6.4.0"]
+dev = ["ruff>=0.6.0", "nbqa>=1.8.0"]
+
+[project.urls]
+Homepage = "https://blindinsight.com"
+Repository = "https://github.com/blind-insight/blind-stats"
+Documentation = "https://docs.blindinsight.io"
+Issues = "https://github.com/blind-insight/blind-stats/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["blind_stats"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = ["*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = [
+    "E501",  # line length handled by formatter
+    "E741",  # ambiguous variable names (l, I, O)
+    "B007",  # unused loop variables — common in iter unpacking
+    "B008",  # function calls in defaults — fine for pathlib.Path(...)
+    "B905",  # zip() without strict= — requires per-call review
+    "W293",  # blank line whitespace inside multi-line string literals
+]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.nbqa.config]
+# Notebooks: per-cell imports; nbqa concatenates cells (F811 on re-imports is expected).
+ruff = "--extend-ignore=E402,F401,E702,E401,I001,F811,F541"

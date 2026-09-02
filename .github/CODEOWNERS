@@ -1,0 +1,4 @@
+# Code owners — every PR auto-requests review from the maintainers team.
+# Only members of @blind-insight/maintainers can approve and merge to main.
+
+*       @blind-insight/maintainers

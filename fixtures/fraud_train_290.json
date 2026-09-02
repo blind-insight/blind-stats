@@ -1,0 +1,4642 @@
+[
+  {
+    "data": {
+      "report_id": "1",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN83197857",
+      "account_jurisdiction": "DE",
+      "risk_level": 51,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 7,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "2",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN39587039",
+      "account_jurisdiction": "US",
+      "risk_level": 82,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 5,
+      "day": 26,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "3",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "SG",
+      "reported_iban": "IBAN23718431",
+      "account_jurisdiction": "DE",
+      "risk_level": 10,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 2,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "4",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN49349722",
+      "account_jurisdiction": "US",
+      "risk_level": 52,
+      "fraud_type": "account_takeover",
+      "year": 2024,
+      "month": 10,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "5",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN23556182",
+      "account_jurisdiction": "AU",
+      "risk_level": 54,
+      "fraud_type": "mule_account",
+      "year": 2021,
+      "month": 8,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "6",
+      "reporting_bank_id": "BANK039",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN95225343",
+      "account_jurisdiction": "DE",
+      "risk_level": 72,
+      "fraud_type": "mule_account",
+      "year": 2019,
+      "month": 12,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "7",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN40742311",
+      "account_jurisdiction": "AU",
+      "risk_level": 90,
+      "fraud_type": "account_takeover",
+      "year": 2024,
+      "month": 6,
+      "day": 13,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "8",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN71586053",
+      "account_jurisdiction": "DE",
+      "risk_level": 86,
+      "fraud_type": "synthetic_identity",
+      "year": 2019,
+      "month": 3,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "9",
+      "reporting_bank_id": "BANK009",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN78387461",
+      "account_jurisdiction": "CH",
+      "risk_level": 97,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 1,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "10",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN81016525",
+      "account_jurisdiction": "GB",
+      "risk_level": 100,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 9,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "11",
+      "reporting_bank_id": "BANK008",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN49392920",
+      "account_jurisdiction": "US",
+      "risk_level": 7,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 8,
+      "day": 1,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "12",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN50056581",
+      "account_jurisdiction": "BR",
+      "risk_level": 16,
+      "fraud_type": "unusual_activity",
+      "year": 2024,
+      "month": 9,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "13",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN75579548",
+      "account_jurisdiction": "BR",
+      "risk_level": 60,
+      "fraud_type": "identity_theft",
+      "year": 2018,
+      "month": 6,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "14",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN19289546",
+      "account_jurisdiction": "SG",
+      "risk_level": 65,
+      "fraud_type": "synthetic_identity",
+      "year": 2025,
+      "month": 9,
+      "day": 25,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "15",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "SG",
+      "reported_iban": "IBAN36998038",
+      "account_jurisdiction": "US",
+      "risk_level": 35,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 7,
+      "day": 22,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "16",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN88961459",
+      "account_jurisdiction": "DE",
+      "risk_level": 83,
+      "fraud_type": "card_fraud",
+      "year": 2022,
+      "month": 10,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "17",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN47376585",
+      "account_jurisdiction": "CH",
+      "risk_level": 3,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 4,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "18",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN23009833",
+      "account_jurisdiction": "DE",
+      "risk_level": 36,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 6,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "19",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN55540424",
+      "account_jurisdiction": "CA",
+      "risk_level": 3,
+      "fraud_type": "unusual_activity",
+      "year": 2024,
+      "month": 2,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "20",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN83863413",
+      "account_jurisdiction": "DE",
+      "risk_level": 58,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 11,
+      "day": 18,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "21",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN17869910",
+      "account_jurisdiction": "AU",
+      "risk_level": 48,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 1,
+      "day": 13,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "22",
+      "reporting_bank_id": "BANK043",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN75319931",
+      "account_jurisdiction": "GB",
+      "risk_level": 29,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 5,
+      "day": 7,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "23",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN77491435",
+      "account_jurisdiction": "DE",
+      "risk_level": 84,
+      "fraud_type": "mule_account",
+      "year": 2024,
+      "month": 9,
+      "day": 6,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "24",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN43046464",
+      "account_jurisdiction": "JP",
+      "risk_level": 61,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 1,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "25",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN45650176",
+      "account_jurisdiction": "SG",
+      "risk_level": 36,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 11,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "26",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN19832887",
+      "account_jurisdiction": "JP",
+      "risk_level": 98,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 9,
+      "day": 9,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "27",
+      "reporting_bank_id": "BANK046",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN50603163",
+      "account_jurisdiction": "FR",
+      "risk_level": 54,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 11,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "28",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN84252420",
+      "account_jurisdiction": "JP",
+      "risk_level": 19,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 5,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "29",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN22388090",
+      "account_jurisdiction": "DE",
+      "risk_level": 93,
+      "fraud_type": "identity_theft",
+      "year": 2022,
+      "month": 5,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "30",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN11297845",
+      "account_jurisdiction": "AU",
+      "risk_level": 40,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 12,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "31",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN15354599",
+      "account_jurisdiction": "FR",
+      "risk_level": 37,
+      "fraud_type": "unusual_activity",
+      "year": 2024,
+      "month": 4,
+      "day": 22,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "32",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN31810617",
+      "account_jurisdiction": "HK",
+      "risk_level": 99,
+      "fraud_type": "identity_theft",
+      "year": 2025,
+      "month": 3,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "33",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN45810056",
+      "account_jurisdiction": "FR",
+      "risk_level": 21,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 12,
+      "day": 4,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "34",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN39920292",
+      "account_jurisdiction": "ES",
+      "risk_level": 80,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 4,
+      "day": 13,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "35",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN54446182",
+      "account_jurisdiction": "GB",
+      "risk_level": 49,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 2,
+      "day": 9,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "36",
+      "reporting_bank_id": "BANK028",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN91363974",
+      "account_jurisdiction": "GB",
+      "risk_level": 16,
+      "fraud_type": "suspicious_transfer",
+      "year": 2025,
+      "month": 2,
+      "day": 13,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "37",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN36445607",
+      "account_jurisdiction": "JP",
+      "risk_level": 52,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 2,
+      "day": 22,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "38",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN53779528",
+      "account_jurisdiction": "BR",
+      "risk_level": 92,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 5,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "39",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN10054484",
+      "account_jurisdiction": "CH",
+      "risk_level": 74,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 4,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "40",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN32775593",
+      "account_jurisdiction": "FR",
+      "risk_level": 70,
+      "fraud_type": "card_fraud",
+      "year": 2023,
+      "month": 5,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "41",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN29777514",
+      "account_jurisdiction": "BR",
+      "risk_level": 55,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 4,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "42",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN63640499",
+      "account_jurisdiction": "GB",
+      "risk_level": 29,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 11,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "43",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN79519112",
+      "account_jurisdiction": "BR",
+      "risk_level": 49,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 9,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "44",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN69401199",
+      "account_jurisdiction": "GB",
+      "risk_level": 58,
+      "fraud_type": "account_takeover",
+      "year": 2022,
+      "month": 12,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "45",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN95585469",
+      "account_jurisdiction": "BR",
+      "risk_level": 28,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 9,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "46",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN28572252",
+      "account_jurisdiction": "AU",
+      "risk_level": 54,
+      "fraud_type": "account_takeover",
+      "year": 2019,
+      "month": 7,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "47",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN62274692",
+      "account_jurisdiction": "US",
+      "risk_level": 76,
+      "fraud_type": "card_fraud",
+      "year": 2024,
+      "month": 10,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "48",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN82238741",
+      "account_jurisdiction": "JP",
+      "risk_level": 36,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 9,
+      "day": 26,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "49",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN32151928",
+      "account_jurisdiction": "US",
+      "risk_level": 64,
+      "fraud_type": "card_fraud",
+      "year": 2024,
+      "month": 3,
+      "day": 20,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "50",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN34391257",
+      "account_jurisdiction": "JP",
+      "risk_level": 37,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 7,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "51",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN73123515",
+      "account_jurisdiction": "DE",
+      "risk_level": 98,
+      "fraud_type": "synthetic_identity",
+      "year": 2018,
+      "month": 9,
+      "day": 2,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "52",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN43189803",
+      "account_jurisdiction": "SG",
+      "risk_level": 91,
+      "fraud_type": "mule_account",
+      "year": 2019,
+      "month": 1,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "53",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN32520277",
+      "account_jurisdiction": "SG",
+      "risk_level": 92,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 12,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "54",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN63238057",
+      "account_jurisdiction": "JP",
+      "risk_level": 19,
+      "fraud_type": "suspicious_transfer",
+      "year": 2025,
+      "month": 4,
+      "day": 3,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "55",
+      "reporting_bank_id": "BANK008",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN85958181",
+      "account_jurisdiction": "BR",
+      "risk_level": 15,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 6,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "56",
+      "reporting_bank_id": "BANK028",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN58612055",
+      "account_jurisdiction": "JP",
+      "risk_level": 82,
+      "fraud_type": "account_takeover",
+      "year": 2022,
+      "month": 8,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "57",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN72394301",
+      "account_jurisdiction": "DE",
+      "risk_level": 83,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 12,
+      "day": 19,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "58",
+      "reporting_bank_id": "BANK043",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN60867083",
+      "account_jurisdiction": "FR",
+      "risk_level": 5,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 8,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "59",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN84597009",
+      "account_jurisdiction": "DE",
+      "risk_level": 72,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 4,
+      "day": 3,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "60",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN22489409",
+      "account_jurisdiction": "GB",
+      "risk_level": 85,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 7,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "61",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN57219209",
+      "account_jurisdiction": "US",
+      "risk_level": 23,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 5,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "62",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN39042654",
+      "account_jurisdiction": "BR",
+      "risk_level": 62,
+      "fraud_type": "card_fraud",
+      "year": 2023,
+      "month": 5,
+      "day": 24,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "63",
+      "reporting_bank_id": "BANK012",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN50569669",
+      "account_jurisdiction": "JP",
+      "risk_level": 38,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 9,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "64",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN11646234",
+      "account_jurisdiction": "SG",
+      "risk_level": 35,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 8,
+      "day": 16,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "65",
+      "reporting_bank_id": "BANK005",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN63782042",
+      "account_jurisdiction": "HK",
+      "risk_level": 53,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 10,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "66",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN91378577",
+      "account_jurisdiction": "JP",
+      "risk_level": 86,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 10,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "67",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN91823275",
+      "account_jurisdiction": "GB",
+      "risk_level": 78,
+      "fraud_type": "card_fraud",
+      "year": 2025,
+      "month": 2,
+      "day": 25,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "68",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN70465583",
+      "account_jurisdiction": "DE",
+      "risk_level": 92,
+      "fraud_type": "mule_account",
+      "year": 2023,
+      "month": 8,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "69",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN89160218",
+      "account_jurisdiction": "FR",
+      "risk_level": 68,
+      "fraud_type": "account_takeover",
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "70",
+      "reporting_bank_id": "BANK011",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN51286958",
+      "account_jurisdiction": "ES",
+      "risk_level": 59,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 10,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "71",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN90267122",
+      "account_jurisdiction": "SG",
+      "risk_level": 69,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 7,
+      "day": 24,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "72",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN46173157",
+      "account_jurisdiction": "GB",
+      "risk_level": 55,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 3,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "73",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN73083727",
+      "account_jurisdiction": "GB",
+      "risk_level": 67,
+      "fraud_type": "mule_account",
+      "year": 2020,
+      "month": 6,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "74",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN83832717",
+      "account_jurisdiction": "US",
+      "risk_level": 21,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 2,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "75",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN72005415",
+      "account_jurisdiction": "US",
+      "risk_level": 99,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 4,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "76",
+      "reporting_bank_id": "BANK019",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN68802946",
+      "account_jurisdiction": "JP",
+      "risk_level": 40,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 8,
+      "day": 4,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "77",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN22510327",
+      "account_jurisdiction": "DE",
+      "risk_level": 65,
+      "fraud_type": "account_takeover",
+      "year": 2019,
+      "month": 2,
+      "day": 15,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "78",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN73380266",
+      "account_jurisdiction": "BR",
+      "risk_level": 59,
+      "fraud_type": "identity_theft",
+      "year": 2020,
+      "month": 9,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "79",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN65692629",
+      "account_jurisdiction": "AU",
+      "risk_level": 32,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 9,
+      "day": 9,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "80",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN82287061",
+      "account_jurisdiction": "US",
+      "risk_level": 69,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 6,
+      "day": 18,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "81",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN65133300",
+      "account_jurisdiction": "CA",
+      "risk_level": 70,
+      "fraud_type": "synthetic_identity",
+      "year": 2018,
+      "month": 12,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "82",
+      "reporting_bank_id": "BANK003",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN26944487",
+      "account_jurisdiction": "ES",
+      "risk_level": 24,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 10,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "83",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN65026398",
+      "account_jurisdiction": "CH",
+      "risk_level": 28,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 3,
+      "day": 3,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "84",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN81621574",
+      "account_jurisdiction": "FR",
+      "risk_level": 21,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 6,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "85",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN22130508",
+      "account_jurisdiction": "JP",
+      "risk_level": 34,
+      "fraud_type": "suspicious_transfer",
+      "year": 2021,
+      "month": 2,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "86",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN17532195",
+      "account_jurisdiction": "DE",
+      "risk_level": 28,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 6,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "87",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN93176117",
+      "account_jurisdiction": "AU",
+      "risk_level": 86,
+      "fraud_type": "account_takeover",
+      "year": 2023,
+      "month": 8,
+      "day": 19,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "88",
+      "reporting_bank_id": "BANK019",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN83363160",
+      "account_jurisdiction": "GB",
+      "risk_level": 66,
+      "fraud_type": "card_fraud",
+      "year": 2019,
+      "month": 8,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "89",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN24314759",
+      "account_jurisdiction": "FR",
+      "risk_level": 77,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 10,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "90",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN16582607",
+      "account_jurisdiction": "ES",
+      "risk_level": 18,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 12,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "91",
+      "reporting_bank_id": "BANK040",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN43638559",
+      "account_jurisdiction": "GB",
+      "risk_level": 49,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 12,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "92",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN14478111",
+      "account_jurisdiction": "GB",
+      "risk_level": 40,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 12,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "93",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN81249799",
+      "account_jurisdiction": "AU",
+      "risk_level": 97,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 5,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "94",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN20106509",
+      "account_jurisdiction": "DE",
+      "risk_level": 30,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 4,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "95",
+      "reporting_bank_id": "BANK001",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN45495029",
+      "account_jurisdiction": "ES",
+      "risk_level": 25,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 8,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "96",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN13358751",
+      "account_jurisdiction": "GB",
+      "risk_level": 37,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 9,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "97",
+      "reporting_bank_id": "BANK008",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN28760553",
+      "account_jurisdiction": "FR",
+      "risk_level": 54,
+      "fraud_type": "identity_theft",
+      "year": 2018,
+      "month": 1,
+      "day": 10,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "98",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN82503409",
+      "account_jurisdiction": "AU",
+      "risk_level": 65,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 12,
+      "day": 24,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "99",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN59731689",
+      "account_jurisdiction": "GB",
+      "risk_level": 56,
+      "fraud_type": "synthetic_identity",
+      "year": 2019,
+      "month": 8,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "100",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN35475673",
+      "account_jurisdiction": "CH",
+      "risk_level": 93,
+      "fraud_type": "card_fraud",
+      "year": 2025,
+      "month": 8,
+      "day": 3,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "101",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN37542226",
+      "account_jurisdiction": "JP",
+      "risk_level": 88,
+      "fraud_type": "synthetic_identity",
+      "year": 2018,
+      "month": 9,
+      "day": 7,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "102",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN27447248",
+      "account_jurisdiction": "AU",
+      "risk_level": 14,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 3,
+      "day": 4,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "103",
+      "reporting_bank_id": "BANK017",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN17032877",
+      "account_jurisdiction": "ES",
+      "risk_level": 50,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 7,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "104",
+      "reporting_bank_id": "BANK033",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN39735904",
+      "account_jurisdiction": "US",
+      "risk_level": 78,
+      "fraud_type": "account_takeover",
+      "year": 2025,
+      "month": 1,
+      "day": 24,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "105",
+      "reporting_bank_id": "BANK031",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN63904155",
+      "account_jurisdiction": "GB",
+      "risk_level": 33,
+      "fraud_type": "suspicious_transfer",
+      "year": 2021,
+      "month": 2,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "106",
+      "reporting_bank_id": "BANK040",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN94970119",
+      "account_jurisdiction": "AU",
+      "risk_level": 55,
+      "fraud_type": "card_fraud",
+      "year": 2022,
+      "month": 12,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "107",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN25356396",
+      "account_jurisdiction": "GB",
+      "risk_level": 68,
+      "fraud_type": "card_fraud",
+      "year": 2024,
+      "month": 11,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "108",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN22762205",
+      "account_jurisdiction": "AU",
+      "risk_level": 27,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 6,
+      "day": 22,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "109",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN60015814",
+      "account_jurisdiction": "JP",
+      "risk_level": 43,
+      "fraud_type": "unusual_activity",
+      "year": 2024,
+      "month": 9,
+      "day": 2,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "110",
+      "reporting_bank_id": "BANK028",
+      "reporting_jurisdiction": "SG",
+      "reported_iban": "IBAN16904975",
+      "account_jurisdiction": "FR",
+      "risk_level": 71,
+      "fraud_type": "account_takeover",
+      "year": 2025,
+      "month": 10,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "111",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN59333209",
+      "account_jurisdiction": "US",
+      "risk_level": 63,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 5,
+      "day": 19,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "112",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN91737913",
+      "account_jurisdiction": "ES",
+      "risk_level": 85,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 12,
+      "day": 9,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "113",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN86010330",
+      "account_jurisdiction": "DE",
+      "risk_level": 98,
+      "fraud_type": "card_fraud",
+      "year": 2023,
+      "month": 2,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "114",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN51827259",
+      "account_jurisdiction": "AU",
+      "risk_level": 5,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 10,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "115",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN98843907",
+      "account_jurisdiction": "JP",
+      "risk_level": 60,
+      "fraud_type": "account_takeover",
+      "year": 2021,
+      "month": 10,
+      "day": 15,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "116",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN80723898",
+      "account_jurisdiction": "FR",
+      "risk_level": 82,
+      "fraud_type": "mule_account",
+      "year": 2023,
+      "month": 1,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "117",
+      "reporting_bank_id": "BANK019",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN54039837",
+      "account_jurisdiction": "SG",
+      "risk_level": 50,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 8,
+      "day": 24,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "118",
+      "reporting_bank_id": "BANK005",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN63293990",
+      "account_jurisdiction": "US",
+      "risk_level": 84,
+      "fraud_type": "account_takeover",
+      "year": 2024,
+      "month": 1,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "119",
+      "reporting_bank_id": "BANK008",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN64362516",
+      "account_jurisdiction": "US",
+      "risk_level": 20,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 6,
+      "day": 6,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "120",
+      "reporting_bank_id": "BANK038",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN63747464",
+      "account_jurisdiction": "JP",
+      "risk_level": 94,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 7,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "121",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN56892354",
+      "account_jurisdiction": "JP",
+      "risk_level": 71,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 11,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "122",
+      "reporting_bank_id": "BANK012",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN94281857",
+      "account_jurisdiction": "GB",
+      "risk_level": 66,
+      "fraud_type": "mule_account",
+      "year": 2021,
+      "month": 10,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "123",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN30261159",
+      "account_jurisdiction": "CA",
+      "risk_level": 36,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 8,
+      "day": 15,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "124",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN59491122",
+      "account_jurisdiction": "US",
+      "risk_level": 37,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 2,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "125",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "SG",
+      "reported_iban": "IBAN15505975",
+      "account_jurisdiction": "FR",
+      "risk_level": 39,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 10,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "126",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN21318464",
+      "account_jurisdiction": "JP",
+      "risk_level": 82,
+      "fraud_type": "mule_account",
+      "year": 2021,
+      "month": 3,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "127",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN64864099",
+      "account_jurisdiction": "GB",
+      "risk_level": 78,
+      "fraud_type": "identity_theft",
+      "year": 2023,
+      "month": 11,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "128",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN98122539",
+      "account_jurisdiction": "JP",
+      "risk_level": 71,
+      "fraud_type": "mule_account",
+      "year": 2025,
+      "month": 10,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "129",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN27307598",
+      "account_jurisdiction": "DE",
+      "risk_level": 92,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 2,
+      "day": 10,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "130",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN80651318",
+      "account_jurisdiction": "GB",
+      "risk_level": 71,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 11,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "131",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN28463709",
+      "account_jurisdiction": "AU",
+      "risk_level": 69,
+      "fraud_type": "mule_account",
+      "year": 2019,
+      "month": 5,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "132",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN92950779",
+      "account_jurisdiction": "HK",
+      "risk_level": 84,
+      "fraud_type": "synthetic_identity",
+      "year": 2018,
+      "month": 7,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "133",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN41880763",
+      "account_jurisdiction": "CH",
+      "risk_level": 49,
+      "fraud_type": "unusual_activity",
+      "year": 2025,
+      "month": 10,
+      "day": 10,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "134",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN59370777",
+      "account_jurisdiction": "DE",
+      "risk_level": 14,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 10,
+      "day": 15,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "135",
+      "reporting_bank_id": "BANK039",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN28575536",
+      "account_jurisdiction": "FR",
+      "risk_level": 74,
+      "fraud_type": "identity_theft",
+      "year": 2024,
+      "month": 1,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "136",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN31516757",
+      "account_jurisdiction": "US",
+      "risk_level": 56,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 9,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "137",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN77378254",
+      "account_jurisdiction": "HK",
+      "risk_level": 64,
+      "fraud_type": "account_takeover",
+      "year": 2021,
+      "month": 7,
+      "day": 3,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "138",
+      "reporting_bank_id": "BANK019",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN73411827",
+      "account_jurisdiction": "GB",
+      "risk_level": 56,
+      "fraud_type": "synthetic_identity",
+      "year": 2023,
+      "month": 3,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "139",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN91722503",
+      "account_jurisdiction": "JP",
+      "risk_level": 50,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 2,
+      "day": 25,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "140",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN90092958",
+      "account_jurisdiction": "GB",
+      "risk_level": 53,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 11,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "141",
+      "reporting_bank_id": "BANK043",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN99686286",
+      "account_jurisdiction": "GB",
+      "risk_level": 18,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 6,
+      "day": 3,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "142",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN61926331",
+      "account_jurisdiction": "US",
+      "risk_level": 100,
+      "fraud_type": "synthetic_identity",
+      "year": 2025,
+      "month": 5,
+      "day": 24,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "143",
+      "reporting_bank_id": "BANK038",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN54629892",
+      "account_jurisdiction": "GB",
+      "risk_level": 22,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 6,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "144",
+      "reporting_bank_id": "BANK009",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN18469210",
+      "account_jurisdiction": "CA",
+      "risk_level": 99,
+      "fraud_type": "account_takeover",
+      "year": 2023,
+      "month": 8,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "145",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN73538641",
+      "account_jurisdiction": "DE",
+      "risk_level": 62,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 11,
+      "day": 7,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "146",
+      "reporting_bank_id": "BANK024",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN68646621",
+      "account_jurisdiction": "DE",
+      "risk_level": 3,
+      "fraud_type": "unusual_activity",
+      "year": 2024,
+      "month": 12,
+      "day": 15,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "147",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN66975380",
+      "account_jurisdiction": "US",
+      "risk_level": 61,
+      "fraud_type": "identity_theft",
+      "year": 2018,
+      "month": 10,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "148",
+      "reporting_bank_id": "BANK028",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN32366682",
+      "account_jurisdiction": "GB",
+      "risk_level": 56,
+      "fraud_type": "mule_account",
+      "year": 2023,
+      "month": 6,
+      "day": 15,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "149",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN20071854",
+      "account_jurisdiction": "FR",
+      "risk_level": 22,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 7,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "150",
+      "reporting_bank_id": "BANK003",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN26942307",
+      "account_jurisdiction": "AU",
+      "risk_level": 10,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 11,
+      "day": 12,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "151",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN20319387",
+      "account_jurisdiction": "GB",
+      "risk_level": 2,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 9,
+      "day": 12,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "152",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN25805613",
+      "account_jurisdiction": "JP",
+      "risk_level": 65,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 5,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "153",
+      "reporting_bank_id": "BANK005",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN70672142",
+      "account_jurisdiction": "CA",
+      "risk_level": 18,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 12,
+      "day": 15,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "154",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN31139996",
+      "account_jurisdiction": "BR",
+      "risk_level": 20,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 12,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "155",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN13527782",
+      "account_jurisdiction": "AU",
+      "risk_level": 64,
+      "fraud_type": "mule_account",
+      "year": 2020,
+      "month": 10,
+      "day": 12,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "156",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN74245343",
+      "account_jurisdiction": "JP",
+      "risk_level": 8,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 7,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "157",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN83994695",
+      "account_jurisdiction": "FR",
+      "risk_level": 70,
+      "fraud_type": "account_takeover",
+      "year": 2022,
+      "month": 3,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "158",
+      "reporting_bank_id": "BANK046",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN40262109",
+      "account_jurisdiction": "US",
+      "risk_level": 53,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 9,
+      "day": 10,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "159",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN77454225",
+      "account_jurisdiction": "DE",
+      "risk_level": 90,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 10,
+      "day": 19,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "160",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN20901547",
+      "account_jurisdiction": "DE",
+      "risk_level": 46,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 11,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "161",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN83226170",
+      "account_jurisdiction": "GB",
+      "risk_level": 99,
+      "fraud_type": "identity_theft",
+      "year": 2020,
+      "month": 5,
+      "day": 16,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "162",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN65783806",
+      "account_jurisdiction": "JP",
+      "risk_level": 25,
+      "fraud_type": "suspicious_transfer",
+      "year": 2021,
+      "month": 4,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "163",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN59733063",
+      "account_jurisdiction": "CA",
+      "risk_level": 95,
+      "fraud_type": "card_fraud",
+      "year": 2022,
+      "month": 2,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "164",
+      "reporting_bank_id": "BANK040",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN66121095",
+      "account_jurisdiction": "JP",
+      "risk_level": 78,
+      "fraud_type": "mule_account",
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "165",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN76755908",
+      "account_jurisdiction": "AU",
+      "risk_level": 70,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 7,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "166",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN73161098",
+      "account_jurisdiction": "JP",
+      "risk_level": 87,
+      "fraud_type": "card_fraud",
+      "year": 2020,
+      "month": 1,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "167",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN85405783",
+      "account_jurisdiction": "BR",
+      "risk_level": 66,
+      "fraud_type": "account_takeover",
+      "year": 2019,
+      "month": 9,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "168",
+      "reporting_bank_id": "BANK009",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN22976369",
+      "account_jurisdiction": "ES",
+      "risk_level": 98,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 6,
+      "day": 18,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "169",
+      "reporting_bank_id": "BANK003",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN28392710",
+      "account_jurisdiction": "FR",
+      "risk_level": 12,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 8,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "170",
+      "reporting_bank_id": "BANK040",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN50162553",
+      "account_jurisdiction": "SG",
+      "risk_level": 82,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 9,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "171",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN88343175",
+      "account_jurisdiction": "ES",
+      "risk_level": 86,
+      "fraud_type": "card_fraud",
+      "year": 2020,
+      "month": 12,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "172",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN16892773",
+      "account_jurisdiction": "GB",
+      "risk_level": 80,
+      "fraud_type": "card_fraud",
+      "year": 2022,
+      "month": 3,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "173",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN24749927",
+      "account_jurisdiction": "GB",
+      "risk_level": 74,
+      "fraud_type": "mule_account",
+      "year": 2019,
+      "month": 8,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "174",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN18359252",
+      "account_jurisdiction": "BR",
+      "risk_level": 63,
+      "fraud_type": "card_fraud",
+      "year": 2023,
+      "month": 9,
+      "day": 7,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "175",
+      "reporting_bank_id": "BANK022",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN83319550",
+      "account_jurisdiction": "DE",
+      "risk_level": 30,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 12,
+      "day": 22,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "176",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN48789478",
+      "account_jurisdiction": "SG",
+      "risk_level": 39,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 12,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "177",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN82905845",
+      "account_jurisdiction": "ES",
+      "risk_level": 85,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 7,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "178",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN98043078",
+      "account_jurisdiction": "DE",
+      "risk_level": 9,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 8,
+      "day": 7,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "179",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN16813620",
+      "account_jurisdiction": "AU",
+      "risk_level": 85,
+      "fraud_type": "account_takeover",
+      "year": 2023,
+      "month": 9,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "180",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN31198492",
+      "account_jurisdiction": "US",
+      "risk_level": 76,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 8,
+      "day": 16,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "181",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN41168067",
+      "account_jurisdiction": "GB",
+      "risk_level": 18,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 12,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "182",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN76489301",
+      "account_jurisdiction": "ES",
+      "risk_level": 11,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 12,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "183",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN96075494",
+      "account_jurisdiction": "GB",
+      "risk_level": 0,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 8,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "184",
+      "reporting_bank_id": "BANK046",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN34991216",
+      "account_jurisdiction": "DE",
+      "risk_level": 62,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 6,
+      "day": 26,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "185",
+      "reporting_bank_id": "BANK033",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN54013571",
+      "account_jurisdiction": "ES",
+      "risk_level": 12,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 11,
+      "day": 4,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "186",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN54241559",
+      "account_jurisdiction": "JP",
+      "risk_level": 70,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 12,
+      "day": 19,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "187",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN77447155",
+      "account_jurisdiction": "GB",
+      "risk_level": 44,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 12,
+      "day": 25,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "188",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN91300905",
+      "account_jurisdiction": "AU",
+      "risk_level": 68,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 12,
+      "day": 18,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "189",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN80532309",
+      "account_jurisdiction": "BR",
+      "risk_level": 42,
+      "fraud_type": "unusual_activity",
+      "year": 2021,
+      "month": 12,
+      "day": 12,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "190",
+      "reporting_bank_id": "BANK011",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN54039203",
+      "account_jurisdiction": "CH",
+      "risk_level": 53,
+      "fraud_type": "account_takeover",
+      "year": 2024,
+      "month": 8,
+      "day": 4,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "191",
+      "reporting_bank_id": "BANK033",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN65757342",
+      "account_jurisdiction": "US",
+      "risk_level": 31,
+      "fraud_type": "suspicious_transfer",
+      "year": 2021,
+      "month": 1,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "192",
+      "reporting_bank_id": "BANK014",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN87619624",
+      "account_jurisdiction": "DE",
+      "risk_level": 46,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 7,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "193",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN34156684",
+      "account_jurisdiction": "JP",
+      "risk_level": 53,
+      "fraud_type": "synthetic_identity",
+      "year": 2023,
+      "month": 11,
+      "day": 24,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "194",
+      "reporting_bank_id": "BANK043",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN82383656",
+      "account_jurisdiction": "CH",
+      "risk_level": 74,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 6,
+      "day": 4,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "195",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN72143331",
+      "account_jurisdiction": "CA",
+      "risk_level": 83,
+      "fraud_type": "mule_account",
+      "year": 2023,
+      "month": 9,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "196",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "HK",
+      "reported_iban": "IBAN25145751",
+      "account_jurisdiction": "AU",
+      "risk_level": 15,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 11,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "197",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN16533225",
+      "account_jurisdiction": "JP",
+      "risk_level": 1,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 1,
+      "day": 13,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "198",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN87324220",
+      "account_jurisdiction": "JP",
+      "risk_level": 98,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 10,
+      "day": 25,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "199",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN18181595",
+      "account_jurisdiction": "CA",
+      "risk_level": 69,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 10,
+      "day": 24,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "200",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN80392240",
+      "account_jurisdiction": "JP",
+      "risk_level": 77,
+      "fraud_type": "identity_theft",
+      "year": 2020,
+      "month": 7,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "201",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN72146184",
+      "account_jurisdiction": "DE",
+      "risk_level": 98,
+      "fraud_type": "identity_theft",
+      "year": 2024,
+      "month": 9,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "202",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN59805178",
+      "account_jurisdiction": "DE",
+      "risk_level": 58,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 12,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "203",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN88864147",
+      "account_jurisdiction": "JP",
+      "risk_level": 93,
+      "fraud_type": "identity_theft",
+      "year": 2023,
+      "month": 9,
+      "day": 7,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "204",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN25745913",
+      "account_jurisdiction": "CH",
+      "risk_level": 21,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 8,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "205",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN97069904",
+      "account_jurisdiction": "US",
+      "risk_level": 25,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 5,
+      "day": 12,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "206",
+      "reporting_bank_id": "BANK014",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN59755172",
+      "account_jurisdiction": "BR",
+      "risk_level": 56,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 1,
+      "day": 19,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "207",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN36332415",
+      "account_jurisdiction": "SG",
+      "risk_level": 1,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 7,
+      "day": 19,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "208",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN96126771",
+      "account_jurisdiction": "DE",
+      "risk_level": 91,
+      "fraud_type": "synthetic_identity",
+      "year": 2023,
+      "month": 8,
+      "day": 6,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "209",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN17882882",
+      "account_jurisdiction": "US",
+      "risk_level": 58,
+      "fraud_type": "account_takeover",
+      "year": 2022,
+      "month": 2,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "210",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN11226946",
+      "account_jurisdiction": "GB",
+      "risk_level": 26,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 8,
+      "day": 12,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "211",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN84040345",
+      "account_jurisdiction": "GB",
+      "risk_level": 89,
+      "fraud_type": "synthetic_identity",
+      "year": 2021,
+      "month": 1,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "212",
+      "reporting_bank_id": "BANK012",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN24363501",
+      "account_jurisdiction": "ES",
+      "risk_level": 68,
+      "fraud_type": "mule_account",
+      "year": 2024,
+      "month": 9,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "213",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN71605634",
+      "account_jurisdiction": "DE",
+      "risk_level": 66,
+      "fraud_type": "account_takeover",
+      "year": 2022,
+      "month": 12,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "214",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN60622842",
+      "account_jurisdiction": "ES",
+      "risk_level": 5,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 1,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "215",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN80888325",
+      "account_jurisdiction": "GB",
+      "risk_level": 81,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 4,
+      "day": 7,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "216",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN82884346",
+      "account_jurisdiction": "JP",
+      "risk_level": 36,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 1,
+      "day": 6,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "217",
+      "reporting_bank_id": "BANK005",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN50168264",
+      "account_jurisdiction": "BR",
+      "risk_level": 63,
+      "fraud_type": "identity_theft",
+      "year": 2019,
+      "month": 4,
+      "day": 19,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "218",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN20526386",
+      "account_jurisdiction": "BR",
+      "risk_level": 84,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 6,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "219",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN53805532",
+      "account_jurisdiction": "BR",
+      "risk_level": 54,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 5,
+      "day": 26,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "220",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN21501669",
+      "account_jurisdiction": "FR",
+      "risk_level": 72,
+      "fraud_type": "identity_theft",
+      "year": 2023,
+      "month": 5,
+      "day": 26,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "221",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN58412365",
+      "account_jurisdiction": "BR",
+      "risk_level": 67,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 1,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "222",
+      "reporting_bank_id": "BANK027",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN23863742",
+      "account_jurisdiction": "AU",
+      "risk_level": 6,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 6,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "223",
+      "reporting_bank_id": "BANK047",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN85099723",
+      "account_jurisdiction": "JP",
+      "risk_level": 70,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 4,
+      "day": 19,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "224",
+      "reporting_bank_id": "BANK028",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN47038975",
+      "account_jurisdiction": "DE",
+      "risk_level": 10,
+      "fraud_type": "suspicious_transfer",
+      "year": 2021,
+      "month": 8,
+      "day": 26,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "225",
+      "reporting_bank_id": "BANK009",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN50890504",
+      "account_jurisdiction": "US",
+      "risk_level": 65,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 7,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "226",
+      "reporting_bank_id": "BANK039",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN28270317",
+      "account_jurisdiction": "FR",
+      "risk_level": 71,
+      "fraud_type": "card_fraud",
+      "year": 2020,
+      "month": 10,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "227",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN42537638",
+      "account_jurisdiction": "DE",
+      "risk_level": 75,
+      "fraud_type": "synthetic_identity",
+      "year": 2020,
+      "month": 5,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "228",
+      "reporting_bank_id": "BANK002",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN71957885",
+      "account_jurisdiction": "CA",
+      "risk_level": 86,
+      "fraud_type": "mule_account",
+      "year": 2025,
+      "month": 4,
+      "day": 15,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "229",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN50645509",
+      "account_jurisdiction": "ES",
+      "risk_level": 4,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 11,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "230",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN66143368",
+      "account_jurisdiction": "GB",
+      "risk_level": 4,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 6,
+      "day": 23,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "231",
+      "reporting_bank_id": "BANK011",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN96838849",
+      "account_jurisdiction": "JP",
+      "risk_level": 90,
+      "fraud_type": "synthetic_identity",
+      "year": 2022,
+      "month": 10,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "232",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN44727276",
+      "account_jurisdiction": "ES",
+      "risk_level": 98,
+      "fraud_type": "card_fraud",
+      "year": 2019,
+      "month": 12,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "233",
+      "reporting_bank_id": "BANK033",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN30232642",
+      "account_jurisdiction": "FR",
+      "risk_level": 14,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 1,
+      "day": 16,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "234",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN56045630",
+      "account_jurisdiction": "SG",
+      "risk_level": 55,
+      "fraud_type": "mule_account",
+      "year": 2021,
+      "month": 4,
+      "day": 17,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "235",
+      "reporting_bank_id": "BANK003",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN25446483",
+      "account_jurisdiction": "FR",
+      "risk_level": 78,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 6,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "236",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN41119124",
+      "account_jurisdiction": "AU",
+      "risk_level": 47,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 11,
+      "day": 6,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "237",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "GB",
+      "reported_iban": "IBAN10597274",
+      "account_jurisdiction": "GB",
+      "risk_level": 25,
+      "fraud_type": "suspicious_transfer",
+      "year": 2023,
+      "month": 4,
+      "day": 9,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "238",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN71411378",
+      "account_jurisdiction": "ES",
+      "risk_level": 4,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 11,
+      "day": 28,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "239",
+      "reporting_bank_id": "BANK030",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN92861016",
+      "account_jurisdiction": "GB",
+      "risk_level": 20,
+      "fraud_type": "unusual_activity",
+      "year": 2019,
+      "month": 11,
+      "day": 23,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "240",
+      "reporting_bank_id": "BANK020",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN25696616",
+      "account_jurisdiction": "AU",
+      "risk_level": 37,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 12,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "241",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN33251181",
+      "account_jurisdiction": "FR",
+      "risk_level": 58,
+      "fraud_type": "identity_theft",
+      "year": 2022,
+      "month": 8,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "242",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN61532114",
+      "account_jurisdiction": "HK",
+      "risk_level": 78,
+      "fraud_type": "identity_theft",
+      "year": 2025,
+      "month": 9,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "243",
+      "reporting_bank_id": "BANK049",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN39598969",
+      "account_jurisdiction": "FR",
+      "risk_level": 26,
+      "fraud_type": "unusual_activity",
+      "year": 2020,
+      "month": 5,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "244",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN25328557",
+      "account_jurisdiction": "BR",
+      "risk_level": 79,
+      "fraud_type": "identity_theft",
+      "year": 2020,
+      "month": 9,
+      "day": 27,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "245",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN97734330",
+      "account_jurisdiction": "BR",
+      "risk_level": 98,
+      "fraud_type": "mule_account",
+      "year": 2023,
+      "month": 5,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "246",
+      "reporting_bank_id": "BANK016",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN38169370",
+      "account_jurisdiction": "JP",
+      "risk_level": 72,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 10,
+      "day": 23,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "247",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN86514083",
+      "account_jurisdiction": "GB",
+      "risk_level": 40,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 5,
+      "day": 20,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "248",
+      "reporting_bank_id": "BANK044",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN22780905",
+      "account_jurisdiction": "US",
+      "risk_level": 95,
+      "fraud_type": "card_fraud",
+      "year": 2019,
+      "month": 7,
+      "day": 2,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "249",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN43226234",
+      "account_jurisdiction": "AU",
+      "risk_level": 8,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 11,
+      "day": 13,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "250",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN22494970",
+      "account_jurisdiction": "FR",
+      "risk_level": 67,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 12,
+      "day": 9,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "251",
+      "reporting_bank_id": "BANK050",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN22501261",
+      "account_jurisdiction": "DE",
+      "risk_level": 29,
+      "fraud_type": "unusual_activity",
+      "year": 2023,
+      "month": 8,
+      "day": 21,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "252",
+      "reporting_bank_id": "BANK032",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN46042404",
+      "account_jurisdiction": "FR",
+      "risk_level": 54,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 5,
+      "day": 11,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "253",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN71684020",
+      "account_jurisdiction": "HK",
+      "risk_level": 81,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 3,
+      "day": 15,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "254",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN50515702",
+      "account_jurisdiction": "GB",
+      "risk_level": 27,
+      "fraud_type": "suspicious_transfer",
+      "year": 2019,
+      "month": 5,
+      "day": 3,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "255",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN51004756",
+      "account_jurisdiction": "GB",
+      "risk_level": 73,
+      "fraud_type": "account_takeover",
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "256",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN11246473",
+      "account_jurisdiction": "JP",
+      "risk_level": 0,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 6,
+      "day": 27,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "257",
+      "reporting_bank_id": "BANK007",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN23851475",
+      "account_jurisdiction": "JP",
+      "risk_level": 44,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 5,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "258",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN11137460",
+      "account_jurisdiction": "GB",
+      "risk_level": 8,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 3,
+      "day": 15,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "259",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN23484199",
+      "account_jurisdiction": "FR",
+      "risk_level": 97,
+      "fraud_type": "mule_account",
+      "year": 2019,
+      "month": 2,
+      "day": 19,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "260",
+      "reporting_bank_id": "BANK036",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN90664728",
+      "account_jurisdiction": "AU",
+      "risk_level": 77,
+      "fraud_type": "card_fraud",
+      "year": 2022,
+      "month": 10,
+      "day": 10,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "261",
+      "reporting_bank_id": "BANK026",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN49666982",
+      "account_jurisdiction": "AU",
+      "risk_level": 42,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 4,
+      "day": 16,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "262",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "CA",
+      "reported_iban": "IBAN27714442",
+      "account_jurisdiction": "US",
+      "risk_level": 90,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 10,
+      "day": 14,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "263",
+      "reporting_bank_id": "BANK038",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN19064068",
+      "account_jurisdiction": "CA",
+      "risk_level": 48,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 4,
+      "day": 2,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "264",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN63992760",
+      "account_jurisdiction": "GB",
+      "risk_level": 25,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 9,
+      "day": 18,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "265",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN62443094",
+      "account_jurisdiction": "CH",
+      "risk_level": 69,
+      "fraud_type": "mule_account",
+      "year": 2022,
+      "month": 11,
+      "day": 22,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "266",
+      "reporting_bank_id": "BANK006",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN68315400",
+      "account_jurisdiction": "ES",
+      "risk_level": 77,
+      "fraud_type": "account_takeover",
+      "year": 2018,
+      "month": 10,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "267",
+      "reporting_bank_id": "BANK011",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN76627415",
+      "account_jurisdiction": "AU",
+      "risk_level": 42,
+      "fraud_type": "unusual_activity",
+      "year": 2025,
+      "month": 9,
+      "day": 17,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "268",
+      "reporting_bank_id": "BANK008",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN13940129",
+      "account_jurisdiction": "BR",
+      "risk_level": 10,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 7,
+      "day": 9,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "269",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN32398441",
+      "account_jurisdiction": "US",
+      "risk_level": 86,
+      "fraud_type": "identity_theft",
+      "year": 2020,
+      "month": 5,
+      "day": 25,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "270",
+      "reporting_bank_id": "BANK001",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN42823140",
+      "account_jurisdiction": "BR",
+      "risk_level": 96,
+      "fraud_type": "mule_account",
+      "year": 2018,
+      "month": 6,
+      "day": 13,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "271",
+      "reporting_bank_id": "BANK021",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN43321320",
+      "account_jurisdiction": "CH",
+      "risk_level": 52,
+      "fraud_type": "identity_theft",
+      "year": 2021,
+      "month": 12,
+      "day": 11,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "272",
+      "reporting_bank_id": "BANK015",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN79226031",
+      "account_jurisdiction": "GB",
+      "risk_level": 73,
+      "fraud_type": "mule_account",
+      "year": 2025,
+      "month": 7,
+      "day": 3,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "273",
+      "reporting_bank_id": "BANK013",
+      "reporting_jurisdiction": "JP",
+      "reported_iban": "IBAN49137230",
+      "account_jurisdiction": "DE",
+      "risk_level": 49,
+      "fraud_type": "unusual_activity",
+      "year": 2022,
+      "month": 5,
+      "day": 24,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "274",
+      "reporting_bank_id": "BANK035",
+      "reporting_jurisdiction": "BR",
+      "reported_iban": "IBAN42900372",
+      "account_jurisdiction": "CA",
+      "risk_level": 87,
+      "fraud_type": "synthetic_identity",
+      "year": 2019,
+      "month": 7,
+      "day": 1,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "275",
+      "reporting_bank_id": "BANK043",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN60502752",
+      "account_jurisdiction": "SG",
+      "risk_level": 94,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 12,
+      "day": 10,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "276",
+      "reporting_bank_id": "BANK018",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN22485824",
+      "account_jurisdiction": "SG",
+      "risk_level": 65,
+      "fraud_type": "card_fraud",
+      "year": 2018,
+      "month": 4,
+      "day": 28,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "277",
+      "reporting_bank_id": "BANK041",
+      "reporting_jurisdiction": "US",
+      "reported_iban": "IBAN62928934",
+      "account_jurisdiction": "BR",
+      "risk_level": 23,
+      "fraud_type": "suspicious_transfer",
+      "year": 2018,
+      "month": 10,
+      "day": 2,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "278",
+      "reporting_bank_id": "BANK048",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN53788744",
+      "account_jurisdiction": "ES",
+      "risk_level": 15,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 5,
+      "day": 8,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "279",
+      "reporting_bank_id": "BANK029",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN72552858",
+      "account_jurisdiction": "JP",
+      "risk_level": 99,
+      "fraud_type": "account_takeover",
+      "year": 2020,
+      "month": 2,
+      "day": 18,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "280",
+      "reporting_bank_id": "BANK011",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN50831043",
+      "account_jurisdiction": "DE",
+      "risk_level": 28,
+      "fraud_type": "suspicious_transfer",
+      "year": 2024,
+      "month": 12,
+      "day": 20,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "281",
+      "reporting_bank_id": "BANK004",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN50109721",
+      "account_jurisdiction": "BR",
+      "risk_level": 20,
+      "fraud_type": "suspicious_transfer",
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "282",
+      "reporting_bank_id": "BANK009",
+      "reporting_jurisdiction": "ES",
+      "reported_iban": "IBAN26301180",
+      "account_jurisdiction": "DE",
+      "risk_level": 35,
+      "fraud_type": "unusual_activity",
+      "year": 2018,
+      "month": 4,
+      "day": 5,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "283",
+      "reporting_bank_id": "BANK005",
+      "reporting_jurisdiction": "DE",
+      "reported_iban": "IBAN12925970",
+      "account_jurisdiction": "GB",
+      "risk_level": 93,
+      "fraud_type": "identity_theft",
+      "year": 2025,
+      "month": 4,
+      "day": 21,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "284",
+      "reporting_bank_id": "BANK037",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN68137264",
+      "account_jurisdiction": "SG",
+      "risk_level": 71,
+      "fraud_type": "mule_account",
+      "year": 2024,
+      "month": 7,
+      "day": 16,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "285",
+      "reporting_bank_id": "BANK010",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN14650569",
+      "account_jurisdiction": "CH",
+      "risk_level": 11,
+      "fraud_type": "suspicious_transfer",
+      "year": 2022,
+      "month": 10,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "286",
+      "reporting_bank_id": "BANK042",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN80573568",
+      "account_jurisdiction": "JP",
+      "risk_level": 85,
+      "fraud_type": "card_fraud",
+      "year": 2020,
+      "month": 9,
+      "day": 26,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "287",
+      "reporting_bank_id": "BANK033",
+      "reporting_jurisdiction": "CH",
+      "reported_iban": "IBAN53165014",
+      "account_jurisdiction": "US",
+      "risk_level": 95,
+      "fraud_type": "card_fraud",
+      "year": 2021,
+      "month": 3,
+      "day": 1,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "288",
+      "reporting_bank_id": "BANK038",
+      "reporting_jurisdiction": "FR",
+      "reported_iban": "IBAN41240803",
+      "account_jurisdiction": "ES",
+      "risk_level": 99,
+      "fraud_type": "card_fraud",
+      "year": 2025,
+      "month": 2,
+      "day": 8,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "289",
+      "reporting_bank_id": "BANK025",
+      "reporting_jurisdiction": "AU",
+      "reported_iban": "IBAN57621071",
+      "account_jurisdiction": "JP",
+      "risk_level": 100,
+      "fraud_type": "synthetic_identity",
+      "year": 2024,
+      "month": 3,
+      "day": 6,
+      "is_active": "true"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  },
+  {
+    "data": {
+      "report_id": "290",
+      "reporting_bank_id": "BANK045",
+      "reporting_jurisdiction": "",
+      "reported_iban": "IBAN57201978",
+      "account_jurisdiction": "CH",
+      "risk_level": 97,
+      "fraud_type": "account_takeover",
+      "year": 2025,
+      "month": 10,
+      "day": 5,
+      "is_active": "false"
+    },
+    "schema": "https://api.app.blindinsight.io/api/schemas/j6Ptoak9BrLpHSQ6rHhXPq/"
+  }
+]
