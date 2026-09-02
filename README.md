@@ -22,8 +22,8 @@ stats = BIStatsSession(
     field_domains={"risk_level": (0, 102)},
 )
 
-stats.mean("risk_level").statistic        # 48.31…
-stats.median("risk_level").statistic      # binary search over count queries
+stats.mean("risk_level").statistic  # 48.31…
+stats.median("risk_level").statistic  # binary search over count queries
 stats.chi2_independence("fraud_type", "is_active")
 stats.describe("risk_level")
 ```
